@@ -1,0 +1,2 @@
+# ProiectSMP
+Alarms de Incendiu
